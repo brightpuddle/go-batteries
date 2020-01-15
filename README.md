@@ -1,2 +1,2 @@
-# gobatteries
+# go-batteries
 Go batteries included.
